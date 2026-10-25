@@ -1,4 +1,4 @@
-# 🌱 SABA GrowTrack
+[SABA GrowTrack_ (1).pdf](https://github.com/user-attachments/files/33937273/SABA.GrowTrack_.1.pdf)# 🌱 SABA GrowTrack
 
 > *Empowering Tunisian farmers with an intelligent, cost-effective ecosystem that guarantees healthier crops, faster financing, and improved market access.*
 
@@ -13,7 +13,7 @@
 
 The full story of the project (problem, research, personas, solution, roadmap, marketing plan and product demo) is in the presentation:
 
-👉 **[`SABA_GrowTrack.pdf`](./SABA_GrowTrack.pdf)** (28 slides)
+👉 **[`SABA_GrowTrack.pdf`]([Uploading SABA GrowTrack_ (1).pdf…])** (28 slides)
 
 The Figma prototype is linked from slide 20 of the presentation (QR code). The exported Figma design files are in the folder [`SABA GrowTrack Dashboard Design/`](./SABA%20GrowTrack%20Dashboard%20Design).
 
